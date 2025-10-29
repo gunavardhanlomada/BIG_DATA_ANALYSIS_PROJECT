@@ -1,11 +1,4 @@
 
----
-
-## 🧾 VERSION 2: Academic / Report-Style `README.md`
-
-```markdown
-# Air Quality Analysis of Odisha (2015)
-
 ## Abstract
 This report presents a detailed analysis of the air quality of Odisha, India, for the year 2015.  
 The objective of the study is to evaluate the levels of key air pollutants and to identify spatial and seasonal variations across major cities in the state.  
@@ -78,4 +71,3 @@ To maintain environmental balance, proactive measures such as green zoning, publ
 ## Author
 **Guna Vardhan Reddy Lomada**  
 Department of Computer Science  
-Email: [your.email@example.com]
